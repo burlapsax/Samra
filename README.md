@@ -23,3 +23,4 @@ Download the .app from the Releases
 <img width="1099" alt="image" src="https://user-images.githubusercontent.com/48022799/222929119-4f9e043c-fdbf-4e39-9137-f344fc693da4.png">
 <img width="493" alt="image" src="https://user-images.githubusercontent.com/48022799/222929132-4e5ee546-18b5-492f-a4a6-5599c1b76a20.png">
 <img width="753" alt="image" src="https://user-images.githubusercontent.com/48022799/222929151-6355f60a-757e-4b17-bc4a-cb25213e8e8c.png">
+.
